@@ -50,7 +50,7 @@ Membuat UI layout kalkulator yang responsive, responsive untuk mobile/tablet/des
 ### Task 2.2: Implementasi Calculator Main Component (2 hari)
 **Assigned to**: Frontend Developer  
 **Priority**: Critical  
-**Status**: Not Started
+**Status**: Completed
 
 #### Subtasks:
 - [ ] Create `src/components/Calculator/Calculator.tsx`:
@@ -75,6 +75,28 @@ Membuat UI layout kalkulator yang responsive, responsive untuk mobile/tablet/des
   - [ ] Operation type
   - [ ] Result value
 - [ ] Add basic styling dengan custom colors
+- [x] Create `src/components/Calculator/Calculator.tsx`:
+  ```typescript
+  interface CalculatorProps {}
+  export const Calculator: React.FC<CalculatorProps> = () => {
+    // Main component
+  }
+  ```
+- [x] Setup grid layout:
+  - [x] Desktop: 4 columns × 6 rows grid
+  - [x] Mobile: 4 columns × 5 rows (scientific hidden atau tabbed)
+  - [x] Use CSS Grid dengan Tailwind
+- [x] Define responsive breakpoints:
+  - [x] Mobile: < 640px (sm)
+  - [x] Tablet: 640px - 1024px (md)
+  - [x] Desktop: > 1024px (lg)
+- [x] Create responsive classes structure
+- [x] Setup component state placeholder:
+  - [x] Display value
+  - [x] Current input
+  - [x] Operation type
+  - [x] Result value
+- [x] Add basic styling dengan custom colors
 
 **Definition of Done**:
 - Component renders dengan grid layout
@@ -87,7 +109,7 @@ Membuat UI layout kalkulator yang responsive, responsive untuk mobile/tablet/des
 ### Task 2.3: Display Area Component (1 hari)
 **Assigned to**: Frontend Developer  
 **Priority**: Critical  
-**Status**: Not Started
+**Status**: Completed
 
 #### Subtasks:
 - [ ] Create `src/components/Display/Display.tsx`:
@@ -122,7 +144,7 @@ Membuat UI layout kalkulator yang responsive, responsive untuk mobile/tablet/des
 ### Task 2.4: Button Components (2 hari)
 **Assigned to**: Frontend Developer  
 **Priority**: Critical  
-**Status**: Not Started
+**Status**: Completed
 
 #### Subtasks:
 - [ ] Create `src/components/Button/Button.tsx`:
@@ -164,7 +186,7 @@ Membuat UI layout kalkulator yang responsive, responsive untuk mobile/tablet/des
 ### Task 2.5: Button Grid Layout & Organization (1 hari)
 **Assigned to**: Frontend Developer  
 **Priority**: High  
-**Status**: Not Started
+**Status**: Completed
 
 #### Subtasks:
 - [ ] Create button layout configuration:

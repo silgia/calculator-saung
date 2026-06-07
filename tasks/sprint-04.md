@@ -21,7 +21,7 @@ Implementasi penggunaan kurung/parentheses dan improve expression parser untuk h
 ### Task 4.1: Parentheses Button & UI Integration (1 hari)
 **Assigned to**: Frontend Developer  
 **Priority**: Critical  
-**Status**: Not Started
+**Status**: Completed
 
 #### Subtasks:
 - [ ] Add parentheses buttons di UI:
@@ -50,7 +50,7 @@ Implementasi penggunaan kurung/parentheses dan improve expression parser untuk h
 ### Task 4.2: Expression Parser Enhancement (2 hari)
 **Assigned to**: Frontend Developer  
 **Priority**: Critical  
-**Status**: Not Started
+**Status**: Completed
 
 #### Subtasks:
 - [ ] Create/Update `src/utils/expressionParser.ts`:
@@ -88,7 +88,7 @@ Implementasi penggunaan kurung/parentheses dan improve expression parser untuk h
 ### Task 4.3: Balanced Parentheses Validation (1 hari)
 **Assigned to**: Frontend Developer  
 **Priority**: High  
-**Status**: Not Started
+**Status**: Completed
 
 #### Subtasks:
 - [ ] Create validation function:
@@ -126,7 +126,7 @@ Implementasi penggunaan kurung/parentheses dan improve expression parser untuk h
 ### Task 4.4: Parentheses Logic in Calculator Hook (1 hari)
 **Assigned to**: Frontend Developer  
 **Priority**: Critical  
-**Status**: Not Started
+**Status**: Completed
 
 #### Subtasks:
 - [ ] Update `src/hooks/useCalculator.ts`:
@@ -157,7 +157,7 @@ Implementasi penggunaan kurung/parentheses dan improve expression parser untuk h
 ### Task 4.5: Order of Operations Testing (1 hari)
 **Assigned to**: Frontend Developer  
 **Priority**: High  
-**Status**: Not Started
+**Status**: Completed
 
 #### Subtasks:
 - [ ] Create comprehensive test suite:
@@ -187,7 +187,7 @@ Implementasi penggunaan kurung/parentheses dan improve expression parser untuk h
 ### Task 4.6: Error Handling & User Feedback (1 hari)
 **Assigned to**: Frontend Developer  
 **Priority**: Medium  
-**Status**: Not Started
+**Status**: Completed
 
 #### Subtasks:
 - [ ] Create error handling system:

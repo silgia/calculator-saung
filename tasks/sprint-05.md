@@ -23,7 +23,7 @@ Implementasi fungsi-fungsi scientific untuk eksponen, akar, dan logaritma dengan
 ### Task 5.1: Scientific Functions UI Layout (1 hari)
 **Assigned to**: UI/UX Designer & Frontend Developer  
 **Priority**: High  
-**Status**: Not Started
+**Status**: Completed
 
 #### Subtasks:
 - [ ] Design scientific functions button layout:
@@ -59,7 +59,7 @@ Implementasi fungsi-fungsi scientific untuk eksponen, akar, dan logaritma dengan
 ### Task 5.2: Eksponen (Power) Functionality (2 hari)
 **Assigned to**: Frontend Developer  
 **Priority**: Critical  
-**Status**: Not Started
+**Status**: Completed
 
 #### Subtasks:
 - [ ] Create `src/utils/scientificFunctions.ts`:
@@ -107,7 +107,7 @@ Implementasi fungsi-fungsi scientific untuk eksponen, akar, dan logaritma dengan
 ### Task 5.3: Akar (Square Root & Nth Root) Functionality (2 hari)
 **Assigned to**: Frontend Developer  
 **Priority**: Critical  
-**Status**: Not Started
+**Status**: Completed
 
 #### Subtasks:
 - [ ] Implement root functions:
@@ -154,7 +154,7 @@ Implementasi fungsi-fungsi scientific untuk eksponen, akar, dan logaritma dengan
 ### Task 5.4: Logaritma Functionality (2 hari)
 **Assigned to**: Frontend Developer  
 **Priority**: Critical  
-**Status**: Not Started
+**Status**: Completed
 
 #### Subtasks:
 - [ ] Implement logaritm functions:
@@ -204,7 +204,7 @@ Implementasi fungsi-fungsi scientific untuk eksponen, akar, dan logaritma dengan
 ### Task 5.5: Scientific Functions Integration (1 hari)
 **Assigned to**: Frontend Developer  
 **Priority**: High  
-**Status**: Not Started
+**Status**: Completed
 
 #### Subtasks:
 - [ ] Update calculator parser untuk recognize fungsi:
@@ -240,7 +240,7 @@ Implementasi fungsi-fungsi scientific untuk eksponen, akar, dan logaritma dengan
 ### Task 5.6: Error Handling untuk Scientific Functions (1 hari)
 **Assigned to**: Frontend Developer  
 **Priority**: Medium  
-**Status**: Not Started
+**Status**: Completed
 
 #### Subtasks:
 - [ ] Create error handling:
@@ -273,7 +273,7 @@ Implementasi fungsi-fungsi scientific untuk eksponen, akar, dan logaritma dengan
 ### Task 5.7: Comprehensive Testing (1 hari)
 **Assigned to**: Frontend Developer / QA  
 **Priority**: High  
-**Status**: Not Started
+**Status**: Completed
 
 #### Subtasks:
 - [ ] Unit tests untuk scientific functions:
